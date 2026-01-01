@@ -1,4 +1,4 @@
-# Hi there 👋
+
 
 ## About Me
 
@@ -28,7 +28,7 @@ My research focuses on clinically robust vision-language models for diagnostic a
 
 - Medical AI and vision-language models
 - Chest radiograph analysis
-- ML in surgical R&D
+- ML in surgical applications
 - Running and endurance training
 
 ## ⚡ Fun fact
